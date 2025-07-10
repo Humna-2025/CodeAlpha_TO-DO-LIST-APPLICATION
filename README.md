@@ -115,8 +115,11 @@ No error checking if tasks.txt does not exist on first run.
 🌟 Suggested Enhancements
 =
 🔷 Add deleteTask()
+
 🔷 Display all tasks (not just pending)
+
 🔷 Handle file-not-found case gracefully.
+
 🔷 Validate user input better (e.g., only integers for menu)
 
 
